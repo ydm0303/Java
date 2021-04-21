@@ -16,6 +16,9 @@ class IFExer {
             System.out.println("嫁吧，比上不足，比下有余。");
         }else {
             System.out.println("不嫁！");
+
+            System.out.println("hhhh");
+
         }
 
 
